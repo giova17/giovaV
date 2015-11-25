@@ -1,2 +1,2 @@
 # giovaV
-movies,
+movies,series,channel
